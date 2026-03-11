@@ -1,1 +1,8 @@
+nome = "Samuel"
+idade = 18
+peso = 72.5
 
+print("Nome: ", nome)
+print("Idade: ", idade)
+print("Peso: ", peso)
+print("Hello Word")
