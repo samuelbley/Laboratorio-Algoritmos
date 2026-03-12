@@ -1,4 +1,4 @@
-#hello, my name is samuel and i want go to my home sleepy#
+
 nome = "Samuel"
 idade = 18
 peso = 72.5
