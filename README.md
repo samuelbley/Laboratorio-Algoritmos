@@ -1,1 +1,2 @@
-## Repositório das atividades das aulas de Laboratório de Algoritmos do curso de SI da AMF - 1º Semestre ##
+Repositório de Laboratório de Algoritmos - 1º Semestre, SI (AMF)
+Python (VSCode)
